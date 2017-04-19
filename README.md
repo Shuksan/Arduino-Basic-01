@@ -1,3 +1,3 @@
 # Arduino-Basic-01
-Basic Arduino Project
+Basic Arduino Project. 
 Simple readme file. Nothing fancy.
